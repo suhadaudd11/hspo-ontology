@@ -1,6 +1,6 @@
 <img width="373" alt="image" src="docs/img/hspo-logo.png">
 
-# Health & Social Person-centric Ontology  (HSPO)
+# Health & Social Person-centric Ontology  (HSPO) (testVersion)
 
 [![format](https://img.shields.io/badge/Ontology_Format-TTL-blue)](ontology/hspo.ttl)
 [![specification](https://img.shields.io/badge/Ontology_Specification-Docs-yellow)](https://ibm.github.io/hspo-ontology/ontology-specification/)
